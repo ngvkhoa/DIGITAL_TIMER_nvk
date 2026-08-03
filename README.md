@@ -50,6 +50,7 @@ Transitioning from Proteus simulations to a physical PCB required specific desig
 ## 👨‍💻 Author
 
 **Nguyen Van Khoa**
+
 *First-Year Engineering Student, Ho Chi Minh City University of Technology (HCMUT)*
 
 *For inquiries regarding the schematic, simulation files, or PCB layout, please open an issue in this repository.*
