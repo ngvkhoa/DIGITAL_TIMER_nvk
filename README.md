@@ -1,5 +1,13 @@
 # TIMER: Pure Logic Hardware Timer ⏱️
 
+## 👨‍💻 Author
+
+**Nguyen Van Khoa**
+
+*First-Year Engineering Student, Ho Chi Minh City University of Technology (HCMUT)*
+
+*For inquiries regarding the schematic, simulation files, or PCB layout, please open an issue in this repository.*
+
 **A Microcontroller-Free, CMOS-Based Digital Timer**
 
 This repository contains the documentation, schematics, and design principles for **TIMER**, a fully functional digital countdown and count-up timer implemented entirely at the hardware level. The system bypasses software abstraction and microcontrollers entirely, relying strictly on CMOS logic gates, physical timing circuits, and cascading counter logic.
@@ -47,10 +55,4 @@ Transitioning from Proteus simulations to a physical PCB required specific desig
 *   **Pin Termination:** Unused input pins on the ICs are systematically tied to ground to ensure deterministic logic states.
 *   **Decoupling:** 10nF ceramic capacitors are placed physically adjacent to the VCC and GND pins of every IC to suppress voltage transients and power supply noise.
 
-## 👨‍💻 Author
-
-**Nguyen Van Khoa**
-
-*First-Year Engineering Student, Ho Chi Minh City University of Technology (HCMUT)*
-
-*For inquiries regarding the schematic, simulation files, or PCB layout, please open an issue in this repository.*
+Nguyen Van Khoa
